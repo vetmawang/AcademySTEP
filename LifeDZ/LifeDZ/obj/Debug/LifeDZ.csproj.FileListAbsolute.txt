@@ -1,0 +1,10 @@
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\bin\Debug\LifeDZ.exe.config
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\bin\Debug\LifeDZ.exe
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\bin\Debug\LifeDZ.pdb
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.Form1.resources
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.Properties.Resources.resources
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.exe
+C:\Users\Sony\source\repos\LifeDZ\LifeDZ\obj\Debug\LifeDZ.pdb
